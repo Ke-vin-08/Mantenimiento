@@ -1,5 +1,6 @@
 """
 Kevin David Ortega Q.
+Sebastian Vélez Marulanda.
 Inginería eléctrica UTP.
 Análisis de confiabilidad en un SEP.
 Enunciado :
