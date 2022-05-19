@@ -86,7 +86,7 @@ Z = 'Confiabiliadad del sistema con el generador en 3'
 #print(f"{Cdes} {Crsp1} {Crsp2}".format(sisO(),sis1(),sis2()))
 #print("Confiabiliad del sistema ubicando G en 2", '\n'.join(map(str, Crsp1)))
 #print("Confiabiliad del sistema ubicando G en 3",'\n'.join(map(str, Crsp2)))
-from tabulate import tabulate
+
 CS0 = np.array([[Cdes ],
     [Crsp1],
        [Crsp2]]).T
